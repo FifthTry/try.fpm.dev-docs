@@ -1,0 +1,9 @@
+-- import: fpm
+
+-- fpm.package: fifthtry.github.io/try.fpm.dev-docs
+zip: github.com/fifthtry/try.fpm.dev-docs/archive/refs/heads/main.zip
+
+-- fpm.dependency: fifthtry.github.io/Forest-Theme
+
+-- fpm.auto-import: fifthtry.github.io/Forest-Theme as ft
+-- fpm.auto-import: fifthtry.github.io/try.fpm.dev-docs/assets
